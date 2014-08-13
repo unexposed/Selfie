@@ -121,7 +121,7 @@ var layout = new LinearLayout(ctx);
 
 ModPE.setItem(511,"record_strad",0,"Phone");
 
-Item.addCraftRecipe(511, 1, 0, [265,1,1, 339,1,0, 331,1,0, 265,1,0, 331,4,0]);
+Item.addCraftRecipe(511, 1, 0, [265,1,2, 339,1,0, 331,1,0, 265,1,0, 331,4,0]);
 
 Item.setCategory(511, 2);
 
