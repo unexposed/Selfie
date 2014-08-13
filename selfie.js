@@ -27,6 +27,7 @@ var Color = android.graphics.Color;
 var ColorDrawable = android.graphics.drawable.ColorDrawable;
 var number = android.text.InputType.TYPE_CLASS_NUMBER;
 
+
 var shotsleft=0;
 var dialog;
 var entity;
